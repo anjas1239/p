@@ -1,5 +1,5 @@
-# botst4rz
-BOT WHATSAPP HP BINTANG NUR PRADANA
+# NEKKO
+BOT WHATSAPP HP NEKKO
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
