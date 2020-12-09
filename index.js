@@ -13,7 +13,7 @@ const donate = require("./lib/donate.js");
 const info = require("./lib/info.js");
 //
 const BotName = 'NEKKO BOT'; // Nama Bot Whatsapp
-const instagramlu = '; // Nama Instagramlu cok
+const instagramlu = 'gak ada ig'; // Nama Instagramlu cok
 const whatsapplu = '082131022499'; // Nomor whatsapplu cok
 const kapanbotaktif = '24 jam'; // Kapan bot lu aktif
 const grupch1 = 'https://chat.whatsapp.com/FsAlnxqz6y2BhCQi5ayCLG'; // OFFICIAL GRUP LU 1
